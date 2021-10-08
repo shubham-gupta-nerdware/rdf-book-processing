@@ -1,4 +1,4 @@
-# ebook-mgmt
+# rdf-book-processing
 Read RDF Files and store metadata in DB
 
 # Install Dependencies 
